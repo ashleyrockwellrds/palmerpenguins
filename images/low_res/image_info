@@ -1,1 +1,2 @@
-
+This folder contains edited versions of the Palmer Penguins 'meet the penguins' art by @allison_horst https://allisonhorst.github.io/palmerpenguins/articles/art.html 
+I separated each penguin into its own image and tried to replicate the color backgrounds to fill in where I removed the other penguins. Images with "WName" in title include the text of the species name from the original image. All images have also been reduced to less than 200 kb in size. 
